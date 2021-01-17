@@ -1,12 +1,6 @@
 # Inventory-Manager
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"></head><body><header><title>Inventory Manager App</title></header>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-</style>
 <table class="tg">      
   <tbody><tr>
     <td class="tg-031e"><img src="icon.jpg" height="100"></td>
