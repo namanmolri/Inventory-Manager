@@ -18,7 +18,7 @@
   </tr>
 <tr>
     <td class="tg-031e" colspan="2">External link to YouTube video:
-	<p> <a href="https://youtu.be/mupHoELJDuI">Demo Video of the app.</a> </p>
+	<p> <a href="https://youtu.be/mupHoELJDuI" target="_blank">Demo Video of the app.</a> </p>
 	</td>
   </tr>
   <tr>
