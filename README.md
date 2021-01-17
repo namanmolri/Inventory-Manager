@@ -58,7 +58,7 @@
   <p><a href="https://github.com/RakinShafqatChowdhury/Stock-Manager">Github for research on functionality. </a></p>
   <p><a href="https://developer.android.com/training/data-storage/sqlite">Android SQLite training.</a></p>
 	<p>Icons made by <a href="https://www.icons8.com/">Icons8</a></p>
-	</td>
+	</td> 
   </tr>
 </tbody></table>
 </body></html>
