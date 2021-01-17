@@ -25,7 +25,7 @@
     <td class="tg-031e" colspan="2">App Description: This is an easy to use Inventory Manager. It allows for an Owner and Customer sign in and also boasts features like login notifications to customers. If the User makes an item available again, the customer is notified upon login. The owner can edit and add items, that are instaneously updated on the customer's end. The purpose of the app is to allow user-customer communication from a distance avoiding crowds outside the marketplace.</td>
 </tr>
 <tr>
-    <td class="tg-031e">![First Image](https://github.com/namanmolri/Inventory-Manager/blob/main/images/signup_cust.JPG)
+    <td class="tg-031e">[First Image](https://github.com/namanmolri/Inventory-Manager/blob/main/images/signup_cust.JPG)
     <td class="tg-031e"><img src="customer_login.jpg" height="750">
 </tr>
 
