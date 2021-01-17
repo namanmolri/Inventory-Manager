@@ -3,7 +3,7 @@
 
 <table class="tg">      
   <tbody><tr>
-    <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/signup_cust.JPG" height="100"></td>
+    <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/icon.JPG" height="100"></td>
     <td class="tg-031e">Inventory manager: For the savvy customer</td>
   </tr>
   <tr>
@@ -25,28 +25,28 @@
     <td class="tg-031e" colspan="2">App Description: This is an easy to use Inventory Manager. It allows for an Owner and Customer sign in and also boasts features like login notifications to customers. If the User makes an item available again, the customer is notified upon login. The owner can edit and add items, that are instaneously updated on the customer's end. The purpose of the app is to allow user-customer communication from a distance avoiding crowds outside the marketplace.</td>
 </tr>
 <tr>
-    <td class="tg-031e">[First Image](https://github.com/namanmolri/Inventory-Manager/blob/main/images/signup_cust.JPG)
-    <td class="tg-031e"><img src="customer_login.jpg" height="750">
+    <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/signup_cust.JPG" height="750">
+    <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/signup_cust.JPG" height="750">
 </tr>
 
 <tr>
-    <td class="tg-031e"><img src="turnon.jpg" height="750">
-    <td class="tg-031e"><img src="notificationpop.jpg" height="750">
+    <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/turnon.JPG" height="750">
+    <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/notificationpop.JPG" height="750">
 </tr>
 
 <tr>
-    <td class="tg-031e"><img src="customer_menu.jpg" height="750">
-    <td class="tg-031e"><img src="accountsetting.jpg" height="750"></td>
+    <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/customer_menu.JPG" height="750">
+    <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/accountsetting.JPG" height="750"></td>
 </tr>
 <tr>
-	<td class="tg-031e"><img src="ownerlog copy.jpg" height="750">
-        <td class="tg-031e"><img src="owneredit.jpg" height="750">
+	<td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/ownerlog.JPG" height="750">
+        <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/owneredit.JPG" height="750">
 	
 </td>
   </tr>
 <tr>
-    <td class="tg-031e"><img src="ownerset.jpg" height="750">
-    <td class="tg-031e"><img src="ownerupdate.jpg" height="750">
+    <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/ownerset.JPG" height="750">
+    <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/ownerupdate.JPG" height="750">
 </tr>
 
   
