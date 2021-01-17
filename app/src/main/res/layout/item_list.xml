@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tv_mainlist_name"
+        android:layout_width="336dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:paddingStart="8dp"
+        android:paddingLeft="8dp"
+        android:textSize="30sp"
+        android:textStyle="normal|bold"
+        tools:ignore="RtlSymmetry" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="?android:attr/listDivider" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton2"
+        android:layout_width="74dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="-3dp"
+        android:layout_marginRight="-3dp"
+        android:button="@drawable/ic_stat_name"
+        android:enabled="false" />
+
+
+</RelativeLayout>

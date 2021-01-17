@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/customer_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:inputType="textPersonName"
+        android:textStyle="italic"
+        android:text="Name:"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/item_name_cust"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginRight="56dp"
+        android:ems="10"
+        android:hint="Name"
+        android:textColor="#ff69b4"
+        android:inputType="textPersonName"
+        android:textSize="18sp" />
+
+
+    <TextView
+        android:id="@+id/catergory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/customer_list"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="16dp"
+        android:textStyle="italic"
+        android:text="Category"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/catergory_name_cust"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/customer_list"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="29dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginRight="56dp"
+        android:ems="10"
+        android:textColor="#0f52ba"
+        android:hint="Category"
+        android:inputType="textPersonName"
+        android:textSize="18sp"
+
+        android:layout_marginStart="8dp" />
+
+    <TextView
+        android:id="@+id/quantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/catergory"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="16dp"
+        android:textStyle="italic"
+        android:text="Quantity"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/quantity_value_cust"
+
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/catergory_name_cust"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="38dp"
+        android:layout_marginEnd="57dp"
+        android:layout_marginRight="57dp"
+        android:ems="10"
+        android:hint="Quantity"
+        android:inputType="textPersonName"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/price_value_cust"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/quantity_value_cust"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="42dp"
+        android:layout_marginEnd="53dp"
+        android:layout_marginRight="53dp"
+        android:ems="10"
+
+        android:hint="Price"
+        android:inputType="textPersonName"
+        android:textSize="18sp"
+
+        android:layout_marginStart="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/quantity"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginBottom="16dp"
+        android:textStyle="italic"
+        android:text="Price"
+        android:textSize="18sp"
+        android:layout_marginStart="8dp"
+        android:layout_alignParentLeft="true" />
+
+</RelativeLayout>
