@@ -28,11 +28,7 @@
     <td class="tg-031e"><img src="signup_cust.jpg" height="750">
     <td class="tg-031e"><img src="customer_login.jpg" height="750">
 </tr>
-<tr>
-    
-    <td class="tg-031e"><img src="itemlist.jpg" height="750">
-    <td class="tg-031e"><img src="itemdetail.jpg" height="750">
-</tr>
+
 <tr>
     <td class="tg-031e"><img src="turnon.jpg" height="750">
     <td class="tg-031e"><img src="notificationpop.jpg" height="750">
