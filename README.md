@@ -3,7 +3,7 @@
 
 <table class="tg">      
   <tbody><tr>
-    <td class="tg-031e"><img src="icon.jpg" height="100"></td>
+    <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/signup_cust.JPG" height="100"></td>
     <td class="tg-031e">Inventory manager: For the savvy customer</td>
   </tr>
   <tr>
