@@ -2,7 +2,8 @@
 
 
 <table class="tg">      
-  <tbody><tr>
+  <tbody><p> An android app for the Savvy store managers in COVID.
+	  <tr>
     <td class="tg-031e"><img src="https://github.com/namanmolri/Inventory-Manager/blob/main/images/icon.JPG" height="100"></td>
     <td class="tg-031e">Inventory manager: For the savvy customer</td>
   </tr>
